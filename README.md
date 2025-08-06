@@ -1,4 +1,4 @@
-# 💻 Laptop Pricing Analysis & Machine Learning Project
+# LaptopIQ - Laptop Pricing Analysis & Machine Learning Project
 
 A comprehensive data analysis and machine learning project focused on predicting laptop prices using various features and advanced regression techniques.
 
